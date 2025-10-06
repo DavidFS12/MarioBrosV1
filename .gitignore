@@ -1,1 +1,10 @@
+node_modules/
+package-lock.json
+package.json
+
+.env
+.env.local
+
+dist/
+build/
 .DS_Store
